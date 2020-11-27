@@ -1,0 +1,16 @@
+// 1-config
+@use './sass/1-config/functions';
+@use './sass/1-config/mixins';
+@use './sass/1-config/variables';
+// 2-base
+@use './sass/2-base/forms';
+@use './sass/2-base/resets';
+@use './sass/2-base/typography';
+// 3-objects
+@use './sass/3-objects/buttons';
+// 4-components
+
+// 5-globals
+@use './sass/5-globals/footer';
+@use './sass/5-globals/header';
+@use './sass/5-globals/layout';
